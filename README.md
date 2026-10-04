@@ -112,12 +112,3 @@ Joblib
 Docker
 Docker Compose
 Jupyter Notebook
-
-
-Project Objective
-
-The objective of this project was to build a complete machine learning solution that goes beyond model training by integrating the trained model into an API, creating a user interface, and containerizing the application for deployment.
-
-Note
-
-This repository contains the machine learning workflow and deployment implementation developed as part of a portfolio project.
